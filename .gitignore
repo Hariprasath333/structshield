@@ -1,0 +1,49 @@
+# Environment & secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Gradle / Java
+.gradle/
+**/.gradle/
+build/
+**/build/
+out/
+bin/
+**/bin/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+*.swp
+*.DS_Store
+Thumbs.db
+vite.config.ts.timestamp-*
+*.timestamp-*.mjs
+
+# Logs
+logs/
+*.log
+
+# Docker
+docker-data/
+postgres-data/
+redis-data/
