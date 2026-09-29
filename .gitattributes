@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Windows script files
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Shell scripts and gradlew
+gradlew text eol=lf
+*.sh text eol=lf

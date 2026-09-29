@@ -1,5 +1,9 @@
 # StructShield
 
+[![Backend CI](https://github.com/Hariprasath333/structshield/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/Hariprasath333/structshield/actions/workflows/backend-ci.yml)
+[![Frontend CI](https://github.com/Hariprasath333/structshield/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/Hariprasath333/structshield/actions/workflows/frontend-ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > **UPI Transaction Structuring & Split-Payment Fraud Detector**  
 > *A high-throughput, event-driven detection platform for real-time identification, explainable risk scoring, and compliance review of artificial split payments.*
 
